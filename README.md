@@ -59,11 +59,11 @@ The open-loop aircraft model showed unstable poles in the right-half plane.
 
 ### Open-Loop Pole-Zero Map
 
-![Pole Zero Map](plots/open_loop pole_zero_Map.png)
+![Pole Zero Map](plots/open_loop_pole_zero_Map.png)
 
 ### Open-Loop Response
 
-![Open Loop Response](plots/open_loop Longitudinal_Response.png)
+![Open Loop Response](plots/open_loop_Longitudinal_Response.png)
 
 ---
 
